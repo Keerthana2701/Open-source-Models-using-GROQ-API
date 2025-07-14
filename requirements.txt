@@ -1,0 +1,12 @@
+langgraph
+langchain
+faiss-cpu
+openai
+tiktoken
+pypdf
+dotenv
+langchain-community
+python-dotenv
+bert_score
+nltk
+pypdf2  
